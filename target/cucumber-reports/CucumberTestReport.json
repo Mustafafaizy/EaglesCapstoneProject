@@ -1,0 +1,174 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1761760900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "DesktopTestStepDef.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 171378200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User clicks on desktop tab",
+            "match": {
+              "location": "DesktopTestStepDef.user_clicks_on_desktop_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 397361500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User clicks on show all desktop",
+            "match": {
+              "location": "DesktopTestStepDef.user_clicks_on_show_all_desktop()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1288277300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User clicks on Add to cart option on Canon EOS5D",
+            "match": {
+              "location": "DesktopTestStepDef.user_clicks_on_Add_to_cart_option_on_Canon_EOS_D()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3991545700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "User Review on Canon Camera",
+        "description": "",
+        "id": "desktop;user-review-on-canon-camera",
+        "after": [
+          {
+            "result": {
+              "duration": 4707882800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 69478600,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User clicks on write a Review Link",
+            "match": {
+              "location": "DesktopTestStepDef.user_clicks_on_write_a_Review_Link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 568664700,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User fill the review information with belwo information",
+            "match": {
+              "location": "DesktopTestStepDef.user_fill_the_review_information_with_belwo_information(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "yourName",
+                  "yourReview",
+                  "Rating"
+                ],
+                "line": 41
+              },
+              {
+                "cells": [
+                  "JackMa",
+                  "i found everthing very easy and the UI is very user friendly",
+                  "good"
+                ],
+                "line": 42
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 60720300,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "User clicks on continue button",
+            "match": {
+              "location": "DesktopTestStepDef.user_clicks_on_continue_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 36262700,
+              "error_message": "org.junit.ComparisonFailure: expected:\u003c[Thank you for your review. It has been submitted to the webmaster for approval].\u003e but was:\u003c[Loading..].\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat stepDefinitions.DesktopTestStepDef.user_sould_see_a_messege_with_Thank_you_for_your_review_it_has_been_submitted_to_the_webMaster_for_approval(DesktopTestStepDef.java:139)\r\n\tat ✽.Then User sould see a messege with Thank you for your review. it has been submitted to the webMaster for approval(desktop.feature:44)\r\n",
+              "status": "failed"
+            },
+            "line": 44,
+            "name": "User sould see a messege with Thank you for your review. it has been submitted to the webMaster for approval",
+            "match": {
+              "location": "DesktopTestStepDef.user_sould_see_a_messege_with_Thank_you_for_your_review_it_has_been_submitted_to_the_webMaster_for_approval()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 36,
+            "name": "@Review"
+          }
+        ]
+      }
+    ],
+    "name": "Desktop",
+    "description": "",
+    "id": "desktop",
+    "keyword": "Feature",
+    "uri": "desktop.feature"
+  }
+]

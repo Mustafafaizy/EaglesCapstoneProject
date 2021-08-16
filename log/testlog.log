@@ -1,0 +1,474 @@
+2021-07-08 19:27:25,737 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 19:27:31,233 - logger_File -INFO - Login to MyAccount   undefined
+2021-07-08 19:30:57,490 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 19:31:00,278 - logger_File -INFO - Login to MyAccount   undefined
+2021-07-08 20:31:33,310 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 20:31:37,226 - logger_File -INFO - Retail Website is opened
+2021-07-08 20:31:37,568 - logger_File -INFO - User clicked on MyAccount
+2021-07-08 20:31:37,825 - logger_File -INFO - User Clicked on Login
+2021-07-08 20:31:37,894 - logger_File -INFO - user entered email
+2021-07-08 20:31:37,964 - logger_File -INFO - user entered password
+2021-07-08 20:31:38,477 - logger_File -INFO - user clicked on login button
+2021-07-08 20:31:43,639 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-08 20:31:44,272 - logger_File -INFO - Login to MyAccount   passed
+2021-07-08 20:42:25,491 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 20:42:28,956 - logger_File -INFO - Retail Website is opened
+2021-07-08 20:42:29,270 - logger_File -INFO - User clicked on MyAccount
+2021-07-08 20:42:29,468 - logger_File -INFO - User Clicked on Login
+2021-07-08 20:42:29,532 - logger_File -INFO - user entered email
+2021-07-08 20:42:29,593 - logger_File -INFO - user entered password
+2021-07-08 20:42:30,107 - logger_File -INFO - user clicked on login button
+2021-07-08 20:42:35,278 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-08 20:42:35,901 - logger_File -INFO - Login to MyAccount   passed
+2021-07-08 20:56:39,895 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 20:56:45,050 - logger_File -INFO - Retail Website is opened
+2021-07-08 20:56:45,348 - logger_File -INFO - User clicked on MyAccount
+2021-07-08 20:56:45,571 - logger_File -INFO - User Clicked on Login
+2021-07-08 20:56:45,666 - logger_File -INFO - user entered email
+2021-07-08 20:56:45,731 - logger_File -INFO - user entered password
+2021-07-08 20:56:46,375 - logger_File -INFO - user clicked on login button
+2021-07-08 20:56:51,539 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-08 20:56:52,195 - logger_File -INFO - Login to MyAccount   passed
+2021-07-08 20:57:04,703 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 20:57:15,681 - logger_File -INFO - Retail Website is opened
+2021-07-08 20:57:15,993 - logger_File -INFO - User clicked on MyAccount
+2021-07-08 20:57:16,225 - logger_File -INFO - User Clicked on Login
+2021-07-08 20:57:16,307 - logger_File -INFO - user entered email
+2021-07-08 20:57:16,376 - logger_File -INFO - user entered password
+2021-07-08 20:57:17,270 - logger_File -INFO - user clicked on login button
+2021-07-08 20:57:22,428 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-08 20:57:23,067 - logger_File -INFO - Login to MyAccount   passed
+2021-07-08 21:33:53,551 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:34:12,521 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:34:26,810 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:34:57,931 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:35:14,354 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:35:28,142 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:36:00,514 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:36:29,306 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:37:14,306 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:38:14,726 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-08 21:38:20,015 - logger_File -INFO - Retail Website is opened
+2021-07-08 21:38:20,464 - logger_File -INFO - User clicked on MyAccount
+2021-07-08 21:38:20,705 - logger_File -INFO - User Clicked on Login
+2021-07-08 21:38:20,821 - logger_File -INFO - user entered email
+2021-07-08 21:38:20,891 - logger_File -INFO - user entered password
+2021-07-08 21:38:21,473 - logger_File -INFO - user clicked on login button
+2021-07-08 21:38:26,675 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-08 21:38:28,948 - logger_File -INFO - Login to MyAccount   passed
+2021-07-09 00:56:24,008 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-09 00:56:29,423 - logger_File -INFO - Retail Website is opened
+2021-07-09 00:56:30,055 - logger_File -INFO - User clicked on MyAccount
+2021-07-09 00:56:30,284 - logger_File -INFO - User Clicked on Login
+2021-07-09 00:56:30,403 - logger_File -INFO - user entered email
+2021-07-09 00:56:30,496 - logger_File -INFO - user entered password
+2021-07-09 00:56:31,059 - logger_File -INFO - user clicked on login button
+2021-07-09 00:56:36,232 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-09 00:56:38,486 - logger_File -INFO - Login to MyAccount   passed
+2021-07-09 00:58:17,769 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-07-09 00:58:23,547 - logger_File -INFO - Retail Website is opened
+2021-07-09 00:58:24,081 - logger_File -INFO - User clicked on MyAccount
+2021-07-09 00:58:24,305 - logger_File -INFO - User Clicked on Login
+2021-07-09 00:58:24,398 - logger_File -INFO - user entered email
+2021-07-09 00:58:24,468 - logger_File -INFO - user entered password
+2021-07-09 00:58:24,976 - logger_File -INFO - user clicked on login button
+2021-07-09 00:58:30,154 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-09 00:58:32,397 - logger_File -INFO - Login to MyAccount   passed
+2021-07-12 18:28:15,680 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:28:20,201 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:28:20,745 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:28:20,919 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:28:20,989 - logger_File -INFO - user entered email
+2021-07-12 18:28:21,068 - logger_File -INFO - user entered password
+2021-07-12 18:28:21,487 - logger_File -INFO - user clicked on login button
+2021-07-12 18:28:26,637 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:28:28,830 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:28:28,837 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:28:59,995 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:29:01,371 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:29:05,794 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:29:06,434 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:29:06,631 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:29:06,715 - logger_File -INFO - user entered email
+2021-07-12 18:29:06,789 - logger_File -INFO - user entered password
+2021-07-12 18:29:07,302 - logger_File -INFO - user clicked on login button
+2021-07-12 18:29:12,454 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:29:14,684 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:29:14,689 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:29:32,467 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:29:43,629 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:29:47,611 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:29:48,237 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:29:48,420 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:29:48,502 - logger_File -INFO - user entered email
+2021-07-12 18:29:48,574 - logger_File -INFO - user entered password
+2021-07-12 18:29:49,124 - logger_File -INFO - user clicked on login button
+2021-07-12 18:29:54,261 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:29:56,502 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:29:56,507 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:29:59,665 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:30:00,223 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:30:00,446 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:30:00,523 - logger_File -INFO - user entered email
+2021-07-12 18:30:00,592 - logger_File -INFO - user entered password
+2021-07-12 18:30:01,140 - logger_File -INFO - user clicked on login button
+2021-07-12 18:30:06,301 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:30:08,520 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:30:08,526 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:31:38,268 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:31:49,849 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:31:51,535 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:31:53,146 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:31:53,720 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:31:53,904 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:31:54,008 - logger_File -INFO - user entered email
+2021-07-12 18:31:54,080 - logger_File -INFO - user entered password
+2021-07-12 18:31:54,531 - logger_File -INFO - user clicked on login button
+2021-07-12 18:31:59,701 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:32:01,920 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:32:01,927 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:32:24,201 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:32:27,286 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:32:27,838 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:32:28,028 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:32:28,105 - logger_File -INFO - user entered email
+2021-07-12 18:32:28,181 - logger_File -INFO - user entered password
+2021-07-12 18:32:28,630 - logger_File -INFO - user clicked on login button
+2021-07-12 18:32:33,780 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:32:35,990 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:32:35,997 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:33:38,769 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:33:42,791 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:33:43,385 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:33:43,565 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:33:43,633 - logger_File -INFO - user entered email
+2021-07-12 18:33:43,708 - logger_File -INFO - user entered password
+2021-07-12 18:33:44,121 - logger_File -INFO - user clicked on login button
+2021-07-12 18:33:49,264 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:33:51,479 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:33:51,487 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:33:54,473 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:33:55,065 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:33:55,913 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:33:55,984 - logger_File -INFO - user entered email
+2021-07-12 18:33:56,057 - logger_File -INFO - user entered password
+2021-07-12 18:33:56,578 - logger_File -INFO - user clicked on login button
+2021-07-12 18:34:01,728 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:34:03,905 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:34:03,913 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:36:19,861 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:36:23,919 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:36:24,553 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:36:24,810 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:36:24,913 - logger_File -INFO - user entered email
+2021-07-12 18:36:24,981 - logger_File -INFO - user entered password
+2021-07-12 18:36:25,450 - logger_File -INFO - user clicked on login button
+2021-07-12 18:36:30,605 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:36:32,810 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:36:32,816 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:36:54,148 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:36:54,671 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:36:59,845 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:37:00,401 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:37:00,572 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:37:00,658 - logger_File -INFO - user entered email
+2021-07-12 18:37:00,731 - logger_File -INFO - user entered password
+2021-07-12 18:37:01,245 - logger_File -INFO - user clicked on login button
+2021-07-12 18:37:06,407 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:37:08,667 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:37:08,677 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:37:11,845 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:37:12,473 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:37:12,648 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:37:12,727 - logger_File -INFO - user entered email
+2021-07-12 18:37:12,792 - logger_File -INFO - user entered password
+2021-07-12 18:37:13,349 - logger_File -INFO - user clicked on login button
+2021-07-12 18:37:18,523 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:37:20,732 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 18:37:20,739 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 18:37:23,907 - logger_File -INFO - Retail Website is opened
+2021-07-12 18:37:24,480 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 18:37:24,660 - logger_File -INFO - User Clicked on Login
+2021-07-12 18:37:24,735 - logger_File -INFO - user entered email
+2021-07-12 18:37:24,810 - logger_File -INFO - user entered password
+2021-07-12 18:37:25,244 - logger_File -INFO - user clicked on login button
+2021-07-12 18:37:30,434 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 18:37:32,654 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 21:07:36,057 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 21:07:41,601 - logger_File -INFO - Retail Website is opened
+2021-07-12 21:07:42,210 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 21:07:42,404 - logger_File -INFO - User Clicked on Login
+2021-07-12 21:07:42,515 - logger_File -INFO - user entered email
+2021-07-12 21:07:42,598 - logger_File -INFO - user entered password
+2021-07-12 21:07:43,137 - logger_File -INFO - user clicked on login button
+2021-07-12 21:07:48,348 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 21:07:50,557 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 21:07:50,561 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 21:07:54,533 - logger_File -INFO - Retail Website is opened
+2021-07-12 21:07:55,241 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 21:07:55,437 - logger_File -INFO - User Clicked on Login
+2021-07-12 21:07:55,528 - logger_File -INFO - user entered email
+2021-07-12 21:07:55,596 - logger_File -INFO - user entered password
+2021-07-12 21:07:56,052 - logger_File -INFO - user clicked on login button
+2021-07-12 21:08:01,253 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 21:08:03,479 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 21:08:03,483 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 21:08:07,506 - logger_File -INFO - Retail Website is opened
+2021-07-12 21:08:08,265 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 21:08:08,455 - logger_File -INFO - User Clicked on Login
+2021-07-12 21:08:08,540 - logger_File -INFO - user entered email
+2021-07-12 21:08:08,634 - logger_File -INFO - user entered password
+2021-07-12 21:08:09,237 - logger_File -INFO - user clicked on login button
+2021-07-12 21:08:14,404 - logger_File -INFO - user logged to myAccount Dashboard
+2021-07-12 21:08:16,637 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-07-12 21:09:54,458 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 21:10:14,660 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 21:10:25,263 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-07-12 21:10:44,784 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:11:00,534 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:11:17,319 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:11:22,295 - logger_File -INFO - Retail Website is opened
+2021-07-12 21:11:22,941 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 21:11:23,387 - logger_File -INFO - user clicked on Register option
+2021-07-12 21:11:36,374 - logger_File -INFO - Register new user to Retail Website   failed
+2021-07-12 21:13:15,963 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:13:31,366 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:13:36,365 - logger_File -INFO - Retail Website is opened
+2021-07-12 21:13:37,074 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 21:13:37,501 - logger_File -INFO - user clicked on Register option
+2021-07-12 21:13:38,090 - logger_File -INFO - User filled the information form
+2021-07-12 21:13:40,331 - logger_File -INFO - Register new user to Retail Website   undefined
+2021-07-12 21:15:28,576 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:15:43,824 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:15:48,969 - logger_File -INFO - Retail Website is opened
+2021-07-12 21:15:49,714 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 21:15:50,217 - logger_File -INFO - user clicked on Register option
+2021-07-12 21:15:50,821 - logger_File -INFO - User filled the information form
+2021-07-12 21:15:50,891 - logger_File -INFO - user accepted privacy and policy
+2021-07-12 21:15:51,864 - logger_File -INFO - user clicked on continue button
+2021-07-12 21:15:51,912 - logger_File -INFO - user Account has been created
+2021-07-12 21:15:54,366 - logger_File -INFO - Register new user to Retail Website   passed
+2021-07-12 21:18:58,528 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:19:46,161 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:36:59,006 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:37:20,384 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-07-12 21:37:25,408 - logger_File -INFO - Retail Website is opened
+2021-07-12 21:37:26,077 - logger_File -INFO - User clicked on MyAccount
+2021-07-12 21:37:26,655 - logger_File -INFO - user clicked on Register option
+2021-07-12 21:37:27,205 - logger_File -INFO - User filled the information form
+2021-07-12 21:37:27,272 - logger_File -INFO - user accepted privacy and policy
+2021-07-12 21:37:28,318 - logger_File -INFO - user clicked on continue button
+2021-07-12 21:37:28,369 - logger_File -INFO - user Account has been created
+2021-07-12 21:37:30,793 - logger_File -INFO - Register new user to Retail Website   passed
+2021-07-19 10:29:31,231 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:29:37,013 - logger_File -INFO - verification of all items under desktop tab   undefined
+2021-07-19 10:49:19,407 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:49:33,997 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:49:46,188 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:49:58,149 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:50:12,296 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:50:46,831 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:50:59,602 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:51:15,174 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:51:43,322 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:51:54,955 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:52:13,362 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:52:21,755 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 10:52:22,791 - logger_File -INFO - verification of all items under desktop tab   failed
+2021-07-19 10:59:21,683 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 10:59:27,079 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 10:59:27,845 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 10:59:29,066 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 10:59:29,154 - logger_File -INFO - User is on Desktop home page
+2021-07-19 10:59:30,148 - logger_File -INFO - verification of all items under desktop tab   passed
+2021-07-19 11:04:16,316 - logger_File -INFO - Scenario verification of all items under desktop tab Started
+2021-07-19 11:04:22,760 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 11:04:23,206 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 11:04:24,080 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 11:04:24,171 - logger_File -INFO - User is on Desktop home page
+2021-07-19 11:04:26,663 - logger_File -INFO - verification of all items under desktop tab   passed
+2021-07-19 12:11:29,043 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:12:31,939 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:12:37,829 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 12:12:38,546 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 12:12:38,949 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 12:12:41,224 - logger_File -INFO - User add HPLP3065 to the shopping Cart   undefined
+2021-07-19 12:23:54,535 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:24:00,069 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 12:24:00,829 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 12:24:01,231 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 12:24:03,552 - logger_File -INFO - User add HPLP3065 to the shopping Cart   failed
+2021-07-19 12:26:47,993 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:26:53,725 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 12:26:54,462 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 12:26:54,832 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 12:26:54,935 - logger_File -INFO - user clicked on add to cart bytton
+2021-07-19 12:26:57,205 - logger_File -INFO - User add HPLP3065 to the shopping Cart   failed
+2021-07-19 12:30:05,668 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:30:17,336 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:30:22,989 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 12:30:23,553 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 12:30:24,272 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 12:30:24,376 - logger_File -INFO - user clicked on add to cart button
+2021-07-19 12:30:26,707 - logger_File -INFO - User add HPLP3065 to the shopping Cart   failed
+2021-07-19 12:32:02,534 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:32:15,245 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:32:20,635 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 12:32:21,477 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 12:32:21,918 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 12:32:22,019 - logger_File -INFO - user clicked on add to cart button
+2021-07-19 12:32:23,418 - logger_File -INFO - User selected the desired quantity
+2021-07-19 12:32:23,845 - logger_File -INFO - User added item to the cart after selecting the quantity
+2021-07-19 12:32:28,593 - logger_File -INFO - User add HPLP3065 to the shopping Cart   failed
+2021-07-19 12:33:19,772 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:33:32,472 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:33:37,693 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 12:33:38,510 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 12:33:38,924 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 12:33:38,992 - logger_File -INFO - user clicked on add to cart button
+2021-07-19 12:33:40,402 - logger_File -INFO - User selected the desired quantity
+2021-07-19 12:33:40,733 - logger_File -INFO - User added item to the cart after selecting the quantity
+2021-07-19 12:33:45,462 - logger_File -INFO - User add HPLP3065 to the shopping Cart   undefined
+2021-07-19 12:34:48,646 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:34:59,949 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 12:35:06,149 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 12:35:06,913 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 12:35:07,340 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 12:35:07,409 - logger_File -INFO - user clicked on add to cart button
+2021-07-19 12:35:08,842 - logger_File -INFO - User selected the desired quantity
+2021-07-19 12:35:09,168 - logger_File -INFO - User added item to the cart after selecting the quantity
+2021-07-19 12:35:09,380 - logger_File -INFO - The success msg appeared
+2021-07-19 12:35:14,345 - logger_File -INFO - User add HPLP3065 to the shopping Cart   passed
+2021-07-19 14:56:23,297 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 14:56:30,238 - logger_File -INFO - User add HPLP3065 to the shopping Cart   failed
+2021-07-19 14:58:23,699 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 14:58:42,375 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 14:58:53,683 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 14:59:00,324 - logger_File -INFO - User add HPLP3065 to the shopping Cart   failed
+2021-07-19 14:59:25,828 - logger_File -INFO - Scenario User add HPLP3065 to the shopping Cart Started
+2021-07-19 14:59:32,439 - logger_File -INFO - User add HPLP3065 to the shopping Cart   failed
+2021-07-19 15:01:47,762 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:02:00,061 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:02:06,716 - logger_File -INFO - Canon EOS5D   failed
+2021-07-19 15:21:07,953 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:21:19,427 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:21:31,270 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:21:42,352 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:21:54,172 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:22:04,246 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:22:21,289 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:22:30,804 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:22:40,736 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:22:51,858 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:22:57,348 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 15:22:57,721 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 15:22:58,388 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 15:22:58,445 - logger_File -INFO - user clicked on add to cart option
+2021-07-19 15:22:59,789 - logger_File -INFO - User selected the desired color
+2021-07-19 15:22:59,894 - logger_File -INFO - User added the desired quantity
+2021-07-19 15:23:00,256 - logger_File -INFO - User added the item to the Shping cart
+2021-07-19 15:23:05,048 - logger_File -INFO - Canon EOS5D   failed
+2021-07-19 15:25:18,066 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:25:24,598 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 15:25:24,959 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 15:25:25,914 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 15:25:25,975 - logger_File -INFO - user clicked on add to cart option
+2021-07-19 15:25:30,828 - logger_File -INFO - User selected the desired color
+2021-07-19 15:25:30,986 - logger_File -INFO - User added the desired quantity
+2021-07-19 15:25:31,212 - logger_File -INFO - User added the item to the Shping cart
+2021-07-19 15:25:31,247 - logger_File -INFO - Itemd added successfully
+2021-07-19 15:25:36,151 - logger_File -INFO - Canon EOS5D   passed
+2021-07-19 15:29:30,236 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:29:40,241 - logger_File -INFO - Scenario Canon EOS5D Started
+2021-07-19 15:29:44,847 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 15:29:45,337 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 15:29:45,720 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 15:29:45,795 - logger_File -INFO - user clicked on add to cart option
+2021-07-19 15:29:47,085 - logger_File -INFO - User selected the desired color
+2021-07-19 15:29:47,189 - logger_File -INFO - User added the desired quantity
+2021-07-19 15:29:47,534 - logger_File -INFO - User added the item to the Shping cart
+2021-07-19 15:29:47,579 - logger_File -INFO - Itemd added successfully
+2021-07-19 15:29:52,488 - logger_File -INFO - Canon EOS5D   passed
+2021-07-19 16:27:19,019 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 16:57:59,573 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 16:58:04,480 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 16:58:05,119 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 16:58:05,520 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 16:58:05,588 - logger_File -INFO - user clicked on add to cart option
+2021-07-19 16:58:06,634 - logger_File -INFO - User clicked on Review link
+2021-07-19 16:58:06,965 - logger_File -INFO - User filled the form
+2021-07-19 16:58:07,232 - logger_File -INFO - User clicked on continue button
+2021-07-19 16:58:12,011 - logger_File -INFO - User Review on Canon Camera   failed
+2021-07-19 16:59:53,269 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:00:04,927 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:00:09,200 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 17:00:09,876 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 17:00:10,284 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 17:00:10,334 - logger_File -INFO - user clicked on add to cart option
+2021-07-19 17:00:11,443 - logger_File -INFO - User clicked on Review link
+2021-07-19 17:00:11,735 - logger_File -INFO - User filled the form
+2021-07-19 17:00:11,996 - logger_File -INFO - User clicked on continue button
+2021-07-19 17:00:16,765 - logger_File -INFO - User Review on Canon Camera   failed
+2021-07-19 17:02:43,395 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:02:52,532 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:03:02,044 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:03:12,122 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:03:25,384 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:03:35,012 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:03:47,671 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-19 17:03:52,054 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-19 17:03:52,613 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-19 17:03:52,978 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-19 17:03:53,024 - logger_File -INFO - user clicked on add to cart option
+2021-07-19 17:03:54,049 - logger_File -INFO - User clicked on Review link
+2021-07-19 17:03:54,327 - logger_File -INFO - User filled the form
+2021-07-19 17:03:54,547 - logger_File -INFO - User clicked on continue button
+2021-07-19 17:03:59,320 - logger_File -INFO - User Review on Canon Camera   failed
+2021-07-27 19:01:05,111 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:01:17,105 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:01:21,787 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-27 19:01:22,224 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-27 19:01:22,857 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-27 19:01:22,905 - logger_File -INFO - user clicked on add to cart option
+2021-07-27 19:01:24,033 - logger_File -INFO - User clicked on Review link
+2021-07-27 19:01:24,303 - logger_File -INFO - User filled the form
+2021-07-27 19:01:24,536 - logger_File -INFO - User clicked on continue button
+2021-07-27 19:01:29,320 - logger_File -INFO - User Review on Canon Camera   failed
+2021-07-27 19:02:29,358 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:02:38,413 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:02:48,092 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:02:57,034 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:03:05,038 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:03:17,165 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:03:25,857 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:03:35,203 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:03:45,898 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:05:34,538 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:05:43,319 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:05:52,174 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:06:01,497 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:06:09,339 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-07-27 19:06:14,815 - logger_File -INFO - User is on Reatil Website homePage
+2021-07-27 19:06:15,494 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-07-27 19:06:15,857 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-07-27 19:06:15,910 - logger_File -INFO - user clicked on add to cart option
+2021-07-27 19:06:16,987 - logger_File -INFO - User clicked on Review link
+2021-07-27 19:06:17,260 - logger_File -INFO - User filled the form
+2021-07-27 19:06:17,473 - logger_File -INFO - User clicked on continue button
+2021-07-27 19:06:17,499 - logger_File -INFO - Review submitted successfully
+2021-07-27 19:06:22,227 - logger_File -INFO - User Review on Canon Camera   passed
+2021-08-09 15:13:29,185 - logger_File -INFO - Scenario add and removing a mac book from cart Started
+2021-08-09 16:20:09,360 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-08-09 16:20:20,889 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-08-09 16:20:31,639 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-08-09 16:21:26,013 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-08-09 16:21:40,659 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-08-09 16:21:51,613 - logger_File -INFO - Scenario User Review on Canon Camera Started
+2021-08-09 16:21:56,822 - logger_File -INFO - User is on Reatil Website homePage
+2021-08-09 16:21:57,505 - logger_File -INFO - user hoverd mouse over desktop dropdwon
+2021-08-09 16:21:57,905 - logger_File -INFO - User were able to click on all desktop tab dropdown
+2021-08-09 16:21:57,974 - logger_File -INFO - user clicked on add to cart option
+2021-08-09 16:21:59,271 - logger_File -INFO - User clicked on Review link
+2021-08-09 16:21:59,643 - logger_File -INFO - User filled the form
+2021-08-09 16:21:59,903 - logger_File -INFO - User clicked on continue button
+2021-08-09 16:22:04,658 - logger_File -INFO - User Review on Canon Camera   failed
